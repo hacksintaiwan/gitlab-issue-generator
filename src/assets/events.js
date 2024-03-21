@@ -6,7 +6,7 @@ export default [
     groupLabelPrefix: `Team::`,
     groupLabelPostfix: ``,
     groupList: {
-      '總召': ['denny0223'],
+      '總召': ['atlasforcn'],
       'RB': ['bletchley13'],
       '公關': ['freetsubasa'],
       '宣傳': ['hazelOxO'],
